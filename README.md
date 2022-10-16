@@ -1,4 +1,4 @@
-# Privided backend by scandiweb to resolve its challenge
+# Provided backend by scandiweb to resolve its challenge
 
 # GraphQL endpoint for Junior Developer position in Scandiweb
 
